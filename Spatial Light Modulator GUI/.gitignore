@@ -1,0 +1,39 @@
+# Visual Studio build files
+*.obj
+*.exe
+*.pdb
+*.ipch
+*.aps
+*.pch
+*.ilk
+*.log
+*.tlog
+*.tmp
+*.vspscc
+*.vssscc
+*.user
+*.suo
+*.cache
+*.dll
+*.lib
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.idb
+
+# Build directories
+[Bb]in/
+[Oo]bj/
+ipch/
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio Code settings
+.vscode/
+
+# Windows thumbnail cache
+Thumbs.db
